@@ -15,9 +15,8 @@ def fun3():
 def fun4():
     name = 'test4'
 
+#无返回值的默认返回None
 print("有参数&有返回值", fun1('test1'))
 print("有参数&无返回值", fun2('test2'))
 print("无参数有回值", fun3())
 print("无参数无回值", fun4())
-
-#无返回值的默认返回None
