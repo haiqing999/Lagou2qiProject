@@ -1,0 +1,10 @@
+cat:
+    name: '叮当猫'
+    colour: '黑色'
+    age: 3
+    gender: '女'
+dog:
+    name: '哈士奇'
+    colour: '白色'
+    age: 4
+    gender: '男'
